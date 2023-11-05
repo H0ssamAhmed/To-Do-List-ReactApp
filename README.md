@@ -20,7 +20,7 @@ This app was developed by [Hossam ahmed](https://www.linkedin.com/in/hossam-ahme
 
 Feel free to use, modify, or distribute this project as you see fit. If you have any questions or suggestions, please don't hesitate to contact me
 <p align="center">
-  [LinkedIn - Hossam Ahmed](https://www.linkedin.com/in/hossam-ahmed-/).
-  [Email - Hossam A](mailto:hossamahmed8862@gmail.com).
+      <a href="https://www.linkedin.com/in/hossam-ahmed-1891bb204/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"</a>
+      <a href="mailto:hossamahmed8862@gmail.com" target="_blank">E-Mail</a>
 </p>
 
