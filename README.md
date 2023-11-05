@@ -17,9 +17,3 @@ You can access the live demo of this app by following this link: [To-Do List Rea
 
 ## Author
 This app was developed by [Hossam ahmed](https://www.linkedin.com/in/hossam-ahmed-/).
-
-Feel free to use, modify, or distribute this project as you see fit. 
-If you have any questions or suggestions, please don't hesitate to contact me [Hossam ahmed](https://www.linkedin.com/in/hossam-ahmed-/)  <a href="https://www.linkedin.com/in/hossam-ahmed-1891bb204/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"></a>
-
-
-
